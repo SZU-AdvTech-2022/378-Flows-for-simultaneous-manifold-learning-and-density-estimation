@@ -1,8 +1,8 @@
-@article{brehmer2020flows,
-  title={Flows for simultaneous manifold learning and density estimation},
-  author={Brehmer, Johann and Cranmer, Kyle},
-  journal={Advances in Neural Information Processing Systems},
-  volume={33},
-  pages={442--453},
-  year={2020}
+@article{REPO-379,
+    author = "Brehmer, Johann and Cranmer, Kyle",
+    journal = "Advances in Neural Information Processing Systems",
+    pages = "442--453",
+    title = "{Flows for simultaneous manifold learning and density estimation}",
+    volume = "33",
+    year = "2020"
 }
