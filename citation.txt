@@ -1,4 +1,4 @@
-@article{REPO-379,
+@article{REPO-378,
     author = "Brehmer, Johann and Cranmer, Kyle",
     journal = "Advances in Neural Information Processing Systems",
     pages = "442--453",
